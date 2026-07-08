@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Concert Ticket Hub</string>
+
+    <string-array name="strarr_events">
+        <item>Pop Music Festival</item>
+        <item>Jazz Music Festival</item>
+        <item>Country Music Festival</item>
+    </string-array>
+</resources>
