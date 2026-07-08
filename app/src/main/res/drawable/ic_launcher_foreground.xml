@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Concert Ticket Hub custom icon: ticket shape with a music note -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,34 L84,34 Q90,34 90,40 Q84,40 84,46 Q84,52 90,52 Q90,58 84,58 Q84,64 90,64 Q90,70 84,70 L24,70 Q18,70 18,64 Q24,64 24,58 Q24,52 18,52 Q18,46 24,46 Q24,40 18,40 Q18,34 24,34 Z"/>
+    <path
+        android:fillColor="#6A1B9A"
+        android:pathData="M46,44 L46,60 A6,6 0 1,1 42,54.4 L42,48 L58,45 L58,58 A6,6 0 1,1 54,52.4 L54,40 Z"/>
+</vector>
